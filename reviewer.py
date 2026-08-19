@@ -271,3 +271,4 @@ print(calculate_average(numbers))
 
     print()
     print("=" * 60)
+# AI-powered code reviewer    
